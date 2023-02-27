@@ -1,0 +1,5 @@
+# ignore all files in the obj/ directory
+obj/
+
+# ignore main executable
+/main
