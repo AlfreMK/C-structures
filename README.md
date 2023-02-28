@@ -11,7 +11,7 @@ From time to time I will add more structures to this collection.
 * Hash Table
 
 ## How to run
-To compile the code you can use the makefile provided:
+To compile the code you can use the following command in the root directory of the project:
 ```
 make
 ```
